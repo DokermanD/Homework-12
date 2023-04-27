@@ -8,6 +8,7 @@ namespace Homework_12._3
         {
             var list = new List<string>();
 
+
             Part1 part1 = new Part1();
             Part2 part2 = new Part2();
             Part3 part3 = new Part3();
